@@ -1,0 +1,2 @@
+# Edik
+Our training repo.
